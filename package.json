@@ -12,5 +12,8 @@
   "license": "ISC",
   "devDependencies": {
     "assemblyscript": "^0.20.13"
+  },
+  "dependencies": {
+    "chalk": "^5.0.1"
   }
 }
