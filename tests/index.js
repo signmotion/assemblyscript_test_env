@@ -4,8 +4,8 @@ import loader from "../lib/loader/index.js";
 
 const tests = [
   "external_values",
-  "class_members.parameter_properties.bad",
-  "class_members.parameter_properties.good",
+  "language_rules/class_members/parameter_properties.bad",
+  "language_rules/class_members/parameter_properties.good",
 ];
 
 const args = process.argv.slice(2);

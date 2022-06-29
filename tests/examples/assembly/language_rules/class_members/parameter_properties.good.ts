@@ -1,4 +1,4 @@
-import { BarService } from "./share/common";
+import { BarService } from "../../_/common";
 
 // good
 class Foo {
