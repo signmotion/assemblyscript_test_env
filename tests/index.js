@@ -4,6 +4,7 @@ import loader from "../lib/loader/index.js";
 
 const tests = [
   "external_values",
+  "language_rules/iterating_containers.good",
   "language_rules/class_members/parameter_properties.bad",
   "language_rules/class_members/parameter_properties.good",
 ];
