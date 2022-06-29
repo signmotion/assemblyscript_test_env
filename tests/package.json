@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test": "npm run test:examples",
+    "test:examples": "cd examples && npm run test"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "assemblyscript_test_env",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test:examples",
+    "test:examples": "cd tests/examples && npm run test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "assemblyscript": "^0.20.13"
+  }
+}
